@@ -1,0 +1,7 @@
+class djv
+{
+public static void main()
+{
+Sytem.out.println("my class csm");
+}
+}
